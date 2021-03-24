@@ -1,0 +1,1 @@
+balance: EasyMock for class Account
